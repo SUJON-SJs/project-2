@@ -41,3 +41,59 @@ header .header-menu ol {
     color: #FF5400;
     font-weight: 800;
 }
+/* Hedear part finish */
+
+
+.main-section{
+    background-image: url(Group\ 13\ \(1\)\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 1170px;
+    height: 500px;
+    border-radius: 15px;
+    margin: auto;
+    color:#FFF;
+    font-family:'Mulish', sans-serif ;
+    text-align: center;
+}
+.main-section .main-section-text{
+    padding-top: 100px;
+
+    
+}
+.main-section .main-section-text .main-part{
+    font-family:'Mulish', sans-serif ;
+}
+.main-section .main-section-text .main-part .main-part-heading{
+    font-size: 64px;
+    font-weight: 800;
+}
+.main-section .main-section-text .main-part .main-part-para{
+    font-size: 16px;
+    font-weight: 600;
+    padding-top: 0%;
+}
+.main-section .main-part-btn{
+    display: inline-flex;
+    padding: 16px;
+    gap: 24px;
+    background: rgba(255, 255, 255, 0.366);
+    border-radius: 10px;
+}
+.main-section .main-part-btn button{
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    background: #FFF;
+    border-style: none;
+    color: rgba(19, 19, 24, 0.50);
+    font-family:'Mulish', sans-serif ;
+
+}
+.main-part-btn .main-part-btn-color button{
+    background: #FF5400;
+    color: #FFF;
+}
+.main-part-btn .main-part-btn-color img{
+    width: 25x;
+    height: 23px;
+}
