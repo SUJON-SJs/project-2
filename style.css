@@ -1,15 +1,16 @@
+
 header{
     display: flex;
     justify-content: space-between;
     background-color: antiquewhite;
+    
 }
 .header1{
     display: flex;
-    padding-top: ;
 }
 .header1 .image1{
     width: 55px;
-    height: 56px;
+    height: 66px;
     margin-right: 20px;
     padding-left:140px;
     margin-top: 20px;
@@ -48,7 +49,7 @@ header .header-menu ol {
     background-image: url(Group\ 13\ \(1\)\ \(1\).png);
     background-repeat: no-repeat;
     width: 1170px;
-    height: 500px;
+    height: 600px;
     border-radius: 15px;
     margin: auto;
     color:#FFF;
@@ -103,9 +104,8 @@ header .header-menu ol {
 .main-section-2{
     display: flex;
     width: 1170px;
-    height: 500px;
-    margin-left: 190px;
-    margin-top: 50px;
+    height: 800px;
+    margin: auto;
     font-family:'Mulish', sans-serif ;
 }
 .main-section-2-para{
@@ -134,4 +134,170 @@ header .header-menu ol {
     font-size: 20px;
     font-weight: 800;
     border-style: none;
+}
+
+/*main part 2nd one is done*/
+.main-section-3{
+    width: 1170px;
+    height: 1800px;
+    margin: auto;
+    font-family:'Mulish', sans-serif;
+    text-align: center;
+}
+
+.main-section-3 .main-section-3para .main-section-3para1{
+    color: #131318;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.main-section-3 .main-section-3para .main-section-3para2{
+    ccolor: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.main-section-3 .main-section-3para{
+    border: 2px solid black;
+
+}
+
+.main-section-3 .main-section-3-main-part .main-section-3img{
+    line-height: 250px;
+
+}
+
+
+.main-section-3img .row1 .main-section-3img-part1{
+    background-image: url(Rectangle\ 5.png);
+    background-repeat: no-repeat;
+    width: 573px;
+    height: 300px;
+}
+.main-section-3img .row1 .main-section-3img-part2{
+    background-image: url(Rectangle\ 8.png);
+    background-repeat: no-repeat;
+    width: 573px;
+    height: 300px;
+}
+.main-section-3img .row1 .main-section-3img-part3{
+    background-image: url(Rectangle\ 6.png);
+    background-repeat: no-repeat;
+    width: 374px;
+height: 286px;
+}
+.main-section-3img .row1 .main-section-3img-part4{
+    background-image: url(Rectangle\ 7.png);
+    background-repeat: no-repeat;
+    width: 474px;
+height: 286px;
+}
+.main-section-3img .row1 .main-section-3img-part5{
+    background-image: url(Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    width: 274px;
+    height: 286px;
+
+}
+.main-section-3img .row1 .main-section-3img-part6{
+    background-image: url(Rectangle\ 11.png);
+    background-repeat: no-repeat;
+    width: 473px;
+    height: 300px;
+
+}
+.main-section-3img .row1 .main-section-3img-part7{
+    background-image: url(Rectangle\ 10.png);
+    background-repeat: no-repeat;
+    width: 673px;
+    height: 300px;
+
+}
+
+.main-section-3img .row1 {
+    display: flex;
+    gap: 20px;
+    color: #FFF;
+
+text-align: center;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+font-family:'Mulish', sans-serif ;
+padding-top: 100px;
+
+}
+/* Main Part 3rd one is done */
+
+.main-section-4{
+    width: 1170px;
+    height: 2000px;
+    margin: auto;
+    font-family:'Mulish', sans-serif;
+}
+
+.main-section-4 .main-section-4-main-box .box{
+    width: 573px;
+    height: 284px;
+    padding: 20px;
+}
+.main-section-4 .main-section-4-main-box .box img{
+    width: 64px;
+    height: 64px;
+}
+.main-section-4 .main-section-4-main-box .main-section-4-main-box-1{
+    display: flex;
+    gap: 34px;
+    padding-top: 50px;
+}
+.main-section-4 .main-section-4-main-box .main-section-4-main-box-2{
+    padding-left: 320px;
+    padding-top: 70px;
+}
+.main-section-4 .main-section-4-main .main-section-4-main-para{
+    text-align: center;
+}
+.main-section-4 .main-section-4-main-para .main-section-4-main-para1{
+    color: #131318;
+    font-size: 40px;
+    font-weight: 800;
+}
+.main-section-4 .main-section-4-main-para .main-section-4-main-para2{
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.main-section-4 .main-section-4-main .main-section-4-main-box .main-section-4-main-box-1 .box-4-1{
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    padding: 10px;
+}
+.main-section-4 .main-section-4-main .main-section-4-main-box .main-section-4-main-box-1 .box-4-2{
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+    padding: 10px;
+}
+
+.main-section-4 .main-section-4-main .main-section-4-main-box .main-section-4-main-box-2 .box-4-3{
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+    padding: 15px;
+}
+
+.main-section-4 .main-section-4-main .main-section-4-main-box h1{
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+}
+.main-section-4 .main-section-4-main .main-section-4-main-box p{
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; 
 }
