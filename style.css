@@ -139,7 +139,7 @@ header .header-menu ol {
 /*main part 2nd one is done*/
 .main-section-3{
     width: 1170px;
-    height: 1800px;
+    height: 1700px;
     margin: auto;
     font-family:'Mulish', sans-serif;
     text-align: center;
@@ -232,7 +232,7 @@ padding-top: 100px;
 
 .main-section-4{
     width: 1170px;
-    height: 2000px;
+    height: 1200px;
     margin: auto;
     font-family:'Mulish', sans-serif;
 }
@@ -300,4 +300,75 @@ padding-top: 100px;
     font-size: 16px;
     font-weight: 400;
     line-height: 26px; 
+}
+
+/* main part 4 end */
+
+.main-part-5{
+    width: 1170px;
+    margin: auto;
+    font-family:'Mulish', sans-serif;
+    text-align: center;
+    margin-top: 0%;
+
+}
+.main-part-5 .main-part-5-main .main-part-5-para .main-part-5-para-box img{
+    width: 16px;
+    height: 16px;
+}
+
+.main-part-5 .main-part-5-main .main-part-5-para .main-part-5-para-box .image-para{
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.main-part-5 .main-part-5-main .main-part-5-para .main-part-5-para-box{
+    width: 479px;
+    height: 289px;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.705);
+    padding: 50px;
+}
+.main-part-5 .main-part-5-main .main-part-5-para .main-part-5-para1{
+    background-image: url(Group\ 39.png);
+    width: 1170px;
+    height: 500px;
+    border-radius: 16px;
+}
+.main-part-5 .main-part-5-main .main-part-5-para .main-part-5-para1 .main-part-5-para-box{
+    position: relative;
+    top: 50px;
+    left: 550px;
+    
+}
+.main-part-5 .main-part-5-main .main-part-5-para .main-part-5-para1 .main-part-5-para-box .main-part-5-para-box-head{
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+
+}
+.main-part-5 .main-part-5-main .main-part-5-para .main-part-5-para1 .main-part-5-para-box .main-part-5-para-box-para{
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; 
+}
+.main-part-5 .main-part-5-main .main-part-5-para .main-part-5-para1 .main-part-5-para-box .main-part-5-para-box-price{
+    color: #FF5400;
+    font-size: 20px;
+    font-weight: 800;
+
+}
+.main-part-5 .main-part-5-main .main-part-5-para .main-part-5-para1 .main-part-5-para-box .main-part-5-para-box-box{
+    width: 150px;
+    height: 52px;
+    border-radius: 8px;
+    background: #FF5400;
+    color: #FFF;
+
+    text-align: center;
+    font-size: 20px;
+    font-weight: 800;
+    border-style: none;
 }
