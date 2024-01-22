@@ -432,7 +432,7 @@ padding-top: 100px;
 
 .main-section-6{
     width: 1170px;
-    height: 1200px;
+    height: 800px;
     margin: auto;
     font-family:'Mulish', sans-serif;
 }
@@ -455,6 +455,7 @@ padding-top: 100px;
 }
 .main-section-6 .main-section-6-body{
     display: flex;
+    gap: 20px;
 }
 .main-section-6 .main-section-6-body .main-section-6-para h2{
     color: #131318;
@@ -489,4 +490,93 @@ padding-top: 100px;
     border-style: none;
 }
 
-/* main part 6 done
+/* main part 6 done*/
+
+.main-section-7{
+    width: 1170px;
+    height: 800px;
+    margin: auto;
+    font-family:'Mulish', sans-serif;
+}
+.main-section-7 .main-section-7-body{
+    display: flex;
+    gap: 20px;
+}
+.main-section-7 .main-section-7-body .main-section-7-body2{
+    background-image: url(Rectangle\ 8\ \(1\).png);
+    width: 672px;
+    height: 422px;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    position: relative;
+    padding-left: 337px;
+    padding-top: 226px;
+}
+.main-section-7 .main-section-7-body .main-section-7-para{
+    width: 474px;
+    height: 360px;
+    border-radius: 16px;
+    border: 1px solid #FF5400;
+    padding: 30px;
+}
+.main-section-7 .main-section-7-body .main-section-7-para h1{
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+}
+.main-section-7 .main-section-7-body .main-section-7-para p{
+    color: #5A5A5D;
+    width: 350px;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px
+}
+.main-section-7 .main-section-7-body .main-section-7-para hr{
+    width: 393px;
+    height: 1px;
+}
+.main-section-7 .main-section-7-body .main-section-7-para .main-section-7-input input {
+    width: 393px;
+    height: 52px;
+    border-radius: 8px;
+    background: rgba(19, 19, 24, 0.05);
+    border-style: none;
+} 
+.main-section-7 .main-section-7-body .main-section-7-para button{
+    width: 393px;
+    height: 52px;
+    border-radius: 8px;
+    background: #FF5400;
+    border-style: none;
+    color: #FFF;
+
+text-align: center;
+font-size: 20px;
+font-weight: 800;
+line-height: normal;
+}
+.main-section-7 .main-section-7-body .main-section-7-body2 .main-section-7-body2-para{
+    width: 324px;
+    height: 120px;
+    transform: rotate(-19.628deg);
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: #FF5400;
+    line-height: 20%;
+    padding-top: 30px;
+}
+.main-section-7 .main-section-7-body .main-section-7-body2 .main-section-7-body2-para p{
+    color: #FFF;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+}
+.main-section-7 .main-section-7-body .main-section-7-body2 .main-section-7-body2-para h1{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+}
